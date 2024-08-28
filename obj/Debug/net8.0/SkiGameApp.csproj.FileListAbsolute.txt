@@ -1,0 +1,14 @@
+C:\Users\ksfuh\SkiGameApp\bin\Debug\net8.0\SkiGameApp.exe
+C:\Users\ksfuh\SkiGameApp\bin\Debug\net8.0\SkiGameApp.deps.json
+C:\Users\ksfuh\SkiGameApp\bin\Debug\net8.0\SkiGameApp.runtimeconfig.json
+C:\Users\ksfuh\SkiGameApp\bin\Debug\net8.0\SkiGameApp.dll
+C:\Users\ksfuh\SkiGameApp\bin\Debug\net8.0\SkiGameApp.pdb
+C:\Users\ksfuh\SkiGameApp\obj\Debug\net8.0\SkiGameApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksfuh\SkiGameApp\obj\Debug\net8.0\SkiGameApp.AssemblyInfoInputs.cache
+C:\Users\ksfuh\SkiGameApp\obj\Debug\net8.0\SkiGameApp.AssemblyInfo.cs
+C:\Users\ksfuh\SkiGameApp\obj\Debug\net8.0\SkiGameApp.csproj.CoreCompileInputs.cache
+C:\Users\ksfuh\SkiGameApp\obj\Debug\net8.0\SkiGameApp.dll
+C:\Users\ksfuh\SkiGameApp\obj\Debug\net8.0\refint\SkiGameApp.dll
+C:\Users\ksfuh\SkiGameApp\obj\Debug\net8.0\SkiGameApp.pdb
+C:\Users\ksfuh\SkiGameApp\obj\Debug\net8.0\SkiGameApp.genruntimeconfig.cache
+C:\Users\ksfuh\SkiGameApp\obj\Debug\net8.0\ref\SkiGameApp.dll
